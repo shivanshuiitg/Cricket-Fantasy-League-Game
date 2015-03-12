@@ -1,2 +1,1 @@
-1)player_profile.php under progress
-2)Exit
+1)Now this is being done according to new algorithm
